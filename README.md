@@ -1,7 +1,7 @@
 # Tête
-Tête - a non-interactive consensus mechanism is similar to the Satoshi Nakamoto protocol. 
+Tête - a non-interactive consensus mechanism is similar to the Nakamoto-Protocol. 
 
-The implementation principle comes from the paper ”How to Mimic Nakamoto’s Design via Proof-of-Stake“.
+The implementation principle comes from the paper "How to Mimic Nakamoto’s Design via Proof-of-Stake".
 
 ## Tête's inspiration
 1. Tête is a French word, which means brain. 
@@ -9,4 +9,3 @@ The implementation principle comes from the paper ”How to Mimic Nakamoto’s D
 
 ## paper
 A Scalable Proof-of-Stake Blockchain in the Open Setting (or How to Mimic Nakamoto’s Design via Proof-of-Stake) [2017-656.pdf](https://github.com/TheSmallBoat/Technical_Survey/blob/master/pdf/2017-656.pdf)
-
